@@ -1,0 +1,13 @@
+🚨 ALERTA: carlos.lima não tem mfa ativado.
+🚨 ALERTA: julia.santos não tem mfa ativado.
+🚨 ALERTA: marcos.oliveira está desligado mas acessou o sistema!
+🚨 ALERTA: marcos.oliveira não tem mfa ativado.
+🚨 ALERTA: rafael.nogueira está desligado mas acessou o sistema!
+🚨 ALERTA: carlos.lima não tem mfa ativado.
+🚨 ALERTA: julia.santos não tem mfa ativado.
+🚨 ALERTA: julia.santos acessou o sistema fora do horário comercial.
+🚨 ALERTA: rafael.nogueira está desligado mas acessou o sistema!
+🚨 ALERTA: rafael.nogueira acessou o sistema fora do horário comercial.
+🚨 ALERTA: ana.souza acessou o sistema fora do horário comercial.
+🚨 ALERTA: marcos.oliveira está desligado mas acessou o sistema!
+🚨 ALERTA: marcos.oliveira não tem mfa ativado.

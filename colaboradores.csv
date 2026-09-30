@@ -1,0 +1,8 @@
+usuario,nome_completo,status,mfa,cargo
+rafael.nogueira,Rafael Nogueira,desligado,sim,Suporte N1
+ana.souza,Ana Souza,ativo,sim,Analista TI
+carlos.lima,Carlos Lima,ativo,nao,Suporte N1
+patricia.ferreira,Patricia Ferreira,ativo,sim,Gestora TI
+marcos.oliveira,Marcos Oliveira,desligado,nao,Financeiro
+julia.santos,Julia Santos,ativo,nao,Suporte N1
+admin.sistema,Admin Sistema,ativo,sim,Admin
